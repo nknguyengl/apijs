@@ -1,0 +1,5 @@
+{
+    "require": {
+        "espresso-dev/zoom-php": "^1.0"
+    }
+}

@@ -1,0 +1,37 @@
+# Versión 1.0.2
+
+$lang["paginasdeaterrizaje"] = 'paginasdeaterrizaje';
+$lang["clientespotenciales-paginasdeaterrizaje"] = 'clientespotenciales-paginasdeaterrizaje';
+$lang["bloques-paginasdeaterrizaje"] = 'bloques-paginasdeaterrizaje';
+$lang["plantillas-paginasdeaterrizaje"] = 'plantillas-paginasdeaterrizaje';
+$lang["configuracion-paginasdeaterrizaje"] = 'configuracion-paginasdeaterrizaje';
+$lang['paginas_de_aterrizaje'] = 'Páginas de aterrizaje';
+$lang['nueva_pagina_de_aterrizaje'] = 'Nueva página de aterrizaje';
+$lang['clientes_potenciales_de_formulario'] = 'Clientes potenciales de formulario';
+$lang['bloques_admin'] = 'Bloques de administrador';
+$lang['diseno_css_para_bloques'] = 'Diseño CSS para bloques';
+$lang['plantillas_admin'] = 'Plantillas de administrador';
+$lang['configuracion'] = 'Configuración';
+$lang['nueva_plantilla'] = 'Nueva plantilla';
+$lang['estilo_css'] = 'Estilo CSS';
+$lang['nota_descripcion_contenido_plantilla'] = 'Variable disponible en contenido HTML, página de agradecimiento, estilo CSS';
+$lang['bloque'] = 'Bloque';
+$lang['nuevo_bloque'] = 'Nuevo bloque';
+$lang['miniatura'] = 'Miniatura';
+$lang['categoria_bloque'] = 'Categoría de bloque';
+$lang['nota_descripcion_contenido_bloque'] = 'Variable disponible en contenido HTML:';
+$lang['desde_pagina_de_aterrizaje'] = 'Desde página de aterrizaje';
+$lang['informacion_cliente_potencial'] = 'Información del cliente potencial';
+$lang['navegador'] = 'Navegador';
+$lang['sistema_operativo'] = 'Sistema operativo';
+$lang['dispositivo'] = 'Dispositivo';
+$lang['editar_cliente_potencial'] = 'Editar cliente potencial';
+$lang['activo'] = 'Activo';
+$lang['no_activo'] = 'No activo';
+$lang['usar_plantilla'] = 'Usar plantilla';
+$lang['conversion_exitosa_de_datos_de_pagina_de_aterrizaje_a_cliente_potencial'] = 'Conversión exitosa de datos de página de aterrizaje a cliente potencial';
+
+// ... (el resto del código sigue la misma estructura)
+
+$lang['not_lead_imported_from_landing_page']  = 'New Lead Imported from Landing Page - %s';
+

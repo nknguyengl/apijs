@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3496e3eb2f8549074e964d57e8335488",
+    "packages": [
+        {
+            "name": "espresso-dev/zoom-php",
+            "version": "v1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/espresso-dev/zoom-php.git",
+                "reference": "bcae67e9c4ea0378932f41c7deb8f15fb722912b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/espresso-dev/zoom-php/zipball/bcae67e9c4ea0378932f41c7deb8f15fb722912b",
+                "reference": "bcae67e9c4ea0378932f41c7deb8f15fb722912b",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": ">=7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "EspressoDev\\Zoom\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Herman Schutte",
+                    "email": "herman@espresso.dev"
+                }
+            ],
+            "description": "A simple PHP class for accessing the Zoom API",
+            "homepage": "https://github.com/espresso-dev/zoom-php",
+            "keywords": [
+                "api",
+                "zoom"
+            ],
+            "time": "2020-04-10T17:37:19+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}

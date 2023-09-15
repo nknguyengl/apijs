@@ -1,0 +1,46 @@
+[
+    {
+        "name": "espresso-dev/zoom-php",
+        "version": "v1.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/espresso-dev/zoom-php.git",
+            "reference": "bcae67e9c4ea0378932f41c7deb8f15fb722912b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/espresso-dev/zoom-php/zipball/bcae67e9c4ea0378932f41c7deb8f15fb722912b",
+            "reference": "bcae67e9c4ea0378932f41c7deb8f15fb722912b",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "php": ">=7"
+        },
+        "time": "2020-04-10T17:37:19+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "EspressoDev\\Zoom\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Herman Schutte",
+                "email": "herman@espresso.dev"
+            }
+        ],
+        "description": "A simple PHP class for accessing the Zoom API",
+        "homepage": "https://github.com/espresso-dev/zoom-php",
+        "keywords": [
+            "api",
+            "zoom"
+        ]
+    }
+]
