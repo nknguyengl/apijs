@@ -32,25 +32,25 @@ define('APP_BASE_URL', 'https://nasarcrm.com/nasarcontable/');
 *
 * Auto added on install
 */
-define('APP_ENC_KEY', '75afac067fe0035dde6d733616ce44c5');
+define('APP_ENC_KEY', '');
 
 /**
  * Database Credentials
  * The hostname of your database server
  */
-define('APP_DB_HOSTNAME', 'localhost');
+define('APP_DB_HOSTNAME', '');
 /**
  * The username used to connect to the database
  */
-define('APP_DB_USERNAME', 'nasarcom_admin');
+define('APP_DB_USERNAME', '');
 /**
  * The password used to connect to the database
  */
-define('APP_DB_PASSWORD', '#CRM135790#');
+define('APP_DB_PASSWORD', '');
 /**
  * The name of the database you want to connect to
  */
-define('APP_DB_NAME', 'nasarcom_nasarcontableCRM');
+define('APP_DB_NAME', '');
 
 /**
  * @since  2.3.0
